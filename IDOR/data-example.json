@@ -1,0 +1,20 @@
+{
+  "first_token": "super-secure jwt token",
+  "second_token": "second secure jwt token",
+  "endpoints": [
+    {
+      "endpoint": "https://httpbin.org/get",
+      "method": "GET",
+      "data": {
+        "name": "Bruno"
+      }
+    },
+    {
+      "endpoint": "https://httpbin.org/get",
+      "method": "GET",
+      "data": {
+        "name": "Bruno"
+      }
+    }
+  ]
+}
